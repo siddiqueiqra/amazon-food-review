@@ -1,4 +1,4 @@
-# Amazon-food-review
+# Sentiment Analysis Of Amazon Food Reviews
 This project performs sentiment analysis on Amazon food reviews. It uses the Pandas, NumPy, Matplotlib, Seaborn, and NLTK libraries in Python. The project is summarized as follows:
 
 - Loading Datasets: The code loads the dataset and prints its shape and the first two rows to verify its accuracy.
